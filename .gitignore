@@ -1,0 +1,26 @@
+# Node modules
+/node_modules/
+
+# Build output
+/build/
+
+# .env
+.env
+.env.local
+.env.*.local
+
+# IDE files
+.idea/
+.vscode/
+
+# Log
+*.log
+
+# Cache
+/.cache/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
